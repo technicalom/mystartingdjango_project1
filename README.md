@@ -1,0 +1,1 @@
+# mystartingdjango_project1
